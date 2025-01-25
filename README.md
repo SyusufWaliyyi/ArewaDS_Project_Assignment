@@ -3,6 +3,7 @@ The repository contain a series of project as a requirement for completing pytho
 
 ## __Project 1__
 The project discussed about data generating and visualization using python modules. The type of data plots and visualization is further divided into two methods. 
+
 A. Line plots
 1. Plotting a linear graph: This is use to visualize data in 2D frame using matplotlib. The mode data entry points is divided into two methods.
    i. Defining x and y data points separately 
